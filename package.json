@@ -1,0 +1,13 @@
+{
+  "name": "light-ws-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/light-ws-rpc.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonrpc-lite": "^2.2.0",
+    "uuid": "^8.3.2"
+  }
+}
